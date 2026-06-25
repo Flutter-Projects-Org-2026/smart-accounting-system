@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/.dart_tool": true,
+        "**/build": true
+    },
+    "git.enabled": false,
+    "git.blame.statusBarItem.enabled": false,
+    "git.decorations.enabled": false
+}
